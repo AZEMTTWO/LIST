@@ -1,2 +1,2 @@
-# LIST
+# Stack
 JUST FOR STUDYING
